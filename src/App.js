@@ -36,14 +36,6 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <Splash />
-      <div id="charts">
-        <Bubbles
-          data={bubbleData}
-          width={window.innerWidth}
-          height={window.innerHeight}
-        />
-      </div>
-      <ProjectSect />
     </ThemeProvider>
   );
 }

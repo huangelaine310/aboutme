@@ -2,7 +2,7 @@
   "name": "huangelaine310",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://huangelaine310.github.io/aboutme",
+  "homepage": "https://huangelaine310.github.io/aboutme/",
   "dependencies": {
     "@material-ui/core": "^4.2.0",
     "classnames": "^2.2.6",

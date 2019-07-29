@@ -18,14 +18,7 @@ class Splash extends Component {
     return (
       <header className={headerClass}>
         <img src={sisyphus} className="App-logo" alt="logo" />
-        <p>just small snippets of my journey.</p>
-        <Button
-          variant="outlined"
-          color="primary"
-          onClick={() => this.setState({ fade: true })}
-        >
-          Enter
-        </Button>
+        <p>Currently Under Construction</p>
       </header>
     );
   }
